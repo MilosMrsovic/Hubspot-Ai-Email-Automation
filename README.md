@@ -1,5 +1,7 @@
 # AI-Driven Email Automation System
 
+Built by [Heaq Digital](https://heaqdigital.com), an automation studio for US service businesses. Full write-up: n8n HubSpot integration https://heaqdigital.com/n8n-hubspot-integration
+
 This project showcases a complete, end-to-end automated workflow for collecting contacts, generating personalized email content, sending emails, and updating CRM statuses. The system combines **HubSpot API**, **FastAPI**, **Docker**, **n8n**, and a local **Ollama AI model** to deliver a fully autonomous marketing pipeline.
 
 ---
